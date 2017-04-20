@@ -1,0 +1,8 @@
+C:\Users\Duarte\Desktop\Duarte\Projetos\Projeto c#\obj\x86\Debug\CPower_CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Duarte\Desktop\Duarte\Projetos\Projeto c#\obj\x86\Debug\CPower_CSharp.Form1.resources
+C:\Users\Duarte\Desktop\Duarte\Projetos\Projeto c#\obj\x86\Debug\CPower_CSharp.Properties.Resources.resources
+C:\Users\Duarte\Desktop\Duarte\Projetos\Projeto c#\obj\x86\Debug\CPower_CSharp.csproj.GenerateResource.Cache
+C:\Users\Duarte\Desktop\Duarte\Projetos\Projeto c#\obj\x86\Debug\CPower_CSharp.exe
+C:\Users\Duarte\Desktop\Duarte\Projetos\Projeto c#\obj\x86\Debug\CPower_CSharp.pdb
+C:\Users\Duarte\Desktop\Duarte\Projetos\Projeto c#\CPower_CSharp.exe
+C:\Users\Duarte\Desktop\Duarte\Projetos\Projeto c#\CPower_CSharp.pdb
